@@ -5,4 +5,5 @@ mydata = {
 }
 jsonstring = json.dumps(mydata)
 print (jsonstring)
-print("your friend have just changed something in this line,fixxin somge itgng")
+print("your friend have just changed something in this line,yet comfrom")
+print("change something")
